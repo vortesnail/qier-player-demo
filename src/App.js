@@ -52,6 +52,10 @@ function App() {
           srcOrigin={videoOrigin} 
           showVideoQuality={true} 
         />
+        {/* <QierPlayer 
+          src480p=""
+          showVideoQuality={true} 
+        /> */}
       </div>
       <p className="example-code">示例代码</p>
       <div className="code">
