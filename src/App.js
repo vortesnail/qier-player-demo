@@ -20,7 +20,11 @@ import videoOrigin from './videoOrigin.mp4';
 
 ReactDOM.render(
   <QierPlayer 
+    width={740}
+    height={420}
+    language="zh"
     showVideoQuality={true}
+    themeColor="#abc123"
     src480p={video480p}
     src720p={video720p}
     srcOrigin={videoOrigin}
@@ -47,10 +51,14 @@ function App() {
       </div>
       <div className="video-container">
         <QierPlayer 
+          width={740}
+          height={420}
           src480p={video480p}
           src720p={video720p}
           srcOrigin={videoOrigin} 
           showVideoQuality={true} 
+          language="zh"
+          themeColor="#abc123"
         />
         {/* <QierPlayer 
           src480p=""
@@ -67,8 +75,8 @@ function App() {
         <p className="help-title">若是有幸帮助到你，使劲“打”赏我！</p>
         <p className="help-content">扫描下面的二维码，赞助我买台ps4，想玩《死亡搁浅》啊什么</p>
         <div className="erweima">
-          <div className="erweima-1"><img src={erweima1} alt="alipay"/></div>
-          <div className="erweima-2"><img src={erweima2} alt="weixinpay"/></div>
+          <div className="erweima-1"><img src={erweima1} alt="alipay"/><p style={{color: '#515559', marginTop: '6px', textAlign: 'center'}}>支付宝</p></div>
+          <div className="erweima-2"><img src={erweima2} alt="weixinpay"/><p style={{color: '#515559', marginTop: '6px', textAlign: 'center'}}>微信</p></div>
         </div>
       </div>
     </div>
