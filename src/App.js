@@ -67,6 +67,11 @@ function App() {
       </div>
       <p className="example-code">示例代码</p>
       <div className="code">
+        <div className="mac-chrome">
+          <i className="circle-icon circle-icon-1"></i>
+          <i className="circle-icon circle-icon-2"></i>
+          <i className="circle-icon circle-icon-3"></i>
+        </div>
         <SyntaxHighlighter language="javascript" style={a11yDark}>
           {codeString}
         </SyntaxHighlighter>
