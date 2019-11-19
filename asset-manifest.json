@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.3a917d60.chunk.css",
-    "main.js": "./static/js/main.9f2489b1.chunk.js",
-    "main.js.map": "./static/js/main.9f2489b1.chunk.js.map",
+    "main.css": "./static/css/main.86e2b519.chunk.css",
+    "main.js": "./static/js/main.19bbb595.chunk.js",
+    "main.js.map": "./static/js/main.19bbb595.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.f88acd54.js",
     "runtime-main.js.map": "./static/js/runtime-main.f88acd54.js.map",
     "static/js/2.b4fe80f1.chunk.js": "./static/js/2.b4fe80f1.chunk.js",
     "static/js/2.b4fe80f1.chunk.js.map": "./static/js/2.b4fe80f1.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.fda91f4ac8a196c355c808544884e794.js": "./precache-manifest.fda91f4ac8a196c355c808544884e794.js",
+    "precache-manifest.bc2a8333f3c6bf687741b08564ef386a.js": "./precache-manifest.bc2a8333f3c6bf687741b08564ef386a.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.3a917d60.chunk.css.map": "./static/css/main.3a917d60.chunk.css.map",
+    "static/css/main.86e2b519.chunk.css.map": "./static/css/main.86e2b519.chunk.css.map",
     "static/media/erweima-1.png": "./static/media/erweima-1.38ecd49b.png",
     "static/media/erweima-2.png": "./static/media/erweima-2.4d72d043.png",
     "static/media/index.css": "./static/media/iconfont.aa38c188.eot",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.f88acd54.js",
     "static/js/2.b4fe80f1.chunk.js",
-    "static/css/main.3a917d60.chunk.css",
-    "static/js/main.9f2489b1.chunk.js"
+    "static/css/main.86e2b519.chunk.css",
+    "static/js/main.19bbb595.chunk.js"
   ]
 }
