@@ -60,10 +60,6 @@ function App() {
           language="zh"
           themeColor="#abc123"
         />
-        {/* <QierPlayer 
-          src480p=""
-          showVideoQuality={true} 
-        /> */}
       </div>
       <p className="example-code">示例代码</p>
       <div className="code">
